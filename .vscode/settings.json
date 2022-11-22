@@ -24,7 +24,8 @@
   "workbench.colorTheme": "One Dark Pro",
   "editor.defaultFormatter": "HookyQR.beautify",
   "[python]": {
-    "editor.defaultFormatter": "ms-python.python"
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnPaste": false
   },
   "python.analysis.typeCheckingMode": "basic",
   "python.formatting.provider": "black"
